@@ -15,6 +15,7 @@ returns an estimate of π using num_samples random points generated with np.rand
 ---
 ##task2
 
+#hint use binary representation
 Write a function:
 `get_random_subset_of_naturals_up_to_20()`
 that:
